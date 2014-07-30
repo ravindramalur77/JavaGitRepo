@@ -5,6 +5,7 @@ public class Greeting {
 	{
 		
 		System.out.println("Welcome to Git Practice session!!");
+		System.out.println("statement 3 added by eng6");
 	}
 
 }
